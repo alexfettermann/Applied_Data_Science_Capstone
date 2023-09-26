@@ -11,7 +11,7 @@ This is the repository for submission of the Jupyter Notebooks for the Course  "
 ### Week 3 - Interactive Visual Analytics with Folium lab
 > Lab1 : Launch Sites Locations Analysis with Folium: lab_jupyter_launch_site_location.jupyterlite_DONE.ipynb
 
-> Lab 2:spacex_dash_app.py
+> Lab 2:spacex_dash_app.py and Dashboard.png 
 ### Week 4 - Hands-on Lab: Complete the Machine Learning Prediction lab
 > Lab 1* : Space X Falcon 9 First Stage Landing Prediction - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite_DONE.ipynb
 >
