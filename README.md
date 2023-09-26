@@ -10,3 +10,5 @@ Week 2 - Hands-on Lab: Complete the EDA with SQL
 Week 3 - Interactive Visual Analytics with Folium lab
 	Lab1: Launch Sites Locations Analysis with Folium: lab_jupyter_launch_site_location.jupyterlite_DONE.ipynb
  	spacex_dash_app.py
+Week 4 - Hands-on Lab: Complete the Machine Learning Prediction lab
+	Lab 1 : Space X Falcon 9 First Stage Landing Prediction - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite_DONE.ipynb
