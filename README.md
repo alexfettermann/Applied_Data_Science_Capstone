@@ -13,4 +13,7 @@ This is the repository for submission of the Jupyter Notebooks for the Course  "
 
 > Lab 2:spacex_dash_app.py
 ### Week 4 - Hands-on Lab: Complete the Machine Learning Prediction lab
-> Lab 1 : Space X Falcon 9 First Stage Landing Prediction - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite_DONE.ipynb
+> Lab 1* : Space X Falcon 9 First Stage Landing Prediction - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite_DONE.ipynb
+>
+> *For this Lab I found a problem running cell of Task 6 and 7. The Task 6 it took more than 4 hours running. I tried several solutions, including the one provided by the staff, none of them worked. Anyway, I've left the line of code that was supposed to run.
+You can verify that many others had the same issue
